@@ -1,0 +1,152 @@
+[
+  {
+    "diaMes": 1,
+    "diaSemana": "Segunda-feira",
+    "faturamento": 5630
+  },
+  {
+    "diaMes": 2,
+    "diaSemana": "Terça-feira",
+    "faturamento": 11729
+  },
+  {
+    "diaMes": 3,
+    "diaSemana": "Quarta-feira",
+    "faturamento": 13159
+  },
+  {
+    "diaMes": 4,
+    "diaSemana": "Quinta-feira",
+    "faturamento": 9047
+  },
+  {
+    "diaMes": 5,
+    "diaSemana": "Sexta-feira",
+    "faturamento": 7336
+  },
+  {
+    "diaMes": 6,
+    "diaSemana": "Sábado",
+    "faturamento": 0
+  },
+  {
+    "diaMes": 7,
+    "diaSemana": "Domingo",
+    "faturamento": 0
+  },
+  {
+    "diaMes": 8,
+    "diaSemana": "Segunda-feira",
+    "faturamento": 12742
+  },
+  {
+    "diaMes": 9,
+    "diaSemana": "Terça-feira",
+    "faturamento": 12195
+  },
+  {
+    "diaMes": 10,
+    "diaSemana": "Quarta-feira",
+    "faturamento": 12162
+  },
+  {
+    "diaMes": 11,
+    "diaSemana": "Quinta-feira",
+    "faturamento": 19379
+  },
+  {
+    "diaMes": 12,
+    "diaSemana": "Sexta-feira",
+    "faturamento": 18463
+  },
+  {
+    "diaMes": 13,
+    "diaSemana": "Sábado",
+    "faturamento": 0
+  },
+  {
+    "diaMes": 14,
+    "diaSemana": "Domingo",
+    "faturamento": 0
+  },
+  {
+    "diaMes": 15,
+    "diaSemana": "Segunda-feira",
+    "faturamento": 12432
+  },
+  {
+    "diaMes": 16,
+    "diaSemana": "Terça-feira",
+    "faturamento": 10498
+  },
+  {
+    "diaMes": 17,
+    "diaSemana": "Quarta-feira",
+    "faturamento": 7541
+  },
+  {
+    "diaMes": 18,
+    "diaSemana": "Quinta-feira",
+    "faturamento": 18183
+  },
+  {
+    "diaMes": 19,
+    "diaSemana": "Sexta-feira",
+    "faturamento": 17623
+  },
+  {
+    "diaMes": 20,
+    "diaSemana": "Sábado",
+    "faturamento": 0
+  },
+  {
+    "diaMes": 21,
+    "diaSemana": "Domingo",
+    "faturamento": 0
+  },
+  {
+    "diaMes": 22,
+    "diaSemana": "Segunda-feira",
+    "faturamento": 9976
+  },
+  {
+    "diaMes": 23,
+    "diaSemana": "Terça-feira",
+    "faturamento": 13575
+  },
+  {
+    "diaMes": 24,
+    "diaSemana": "Quarta-feira",
+    "faturamento": 12528
+  },
+  {
+    "diaMes": 25,
+    "diaSemana": "Quinta-feira",
+    "faturamento": 9176
+  },
+  {
+    "diaMes": 26,
+    "diaSemana": "Sexta-feira",
+    "faturamento": 18714
+  },
+  {
+    "diaMes": 27,
+    "diaSemana": "Sábado",
+    "faturamento": 0
+  },
+  {
+    "diaMes": 28,
+    "diaSemana": "Domingo",
+    "faturamento": 0
+  },
+  {
+    "diaMes": 29,
+    "diaSemana": "Segunda-feira",
+    "faturamento": 12831
+  },
+  {
+    "diaMes": 30,
+    "diaSemana": "Terça-feira",
+    "faturamento": 6787
+  }
+]
